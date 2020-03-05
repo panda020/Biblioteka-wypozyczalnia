@@ -1,2 +1,2 @@
 # Biblioteka-wypozyczalnia
-# Projekt wykonany przez Aleksandra Matuszek oraz Annę Wróblewską
+# Projekt wykonany przez Aleksandrę Matuszek oraz Annę Wróblewską
